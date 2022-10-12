@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wuyujack.wuyujack)
 
 - 🔭 I’m currently working on Machine Learning and Computer Vision at Northwestern University 
 - 🌱 I am/was learning Electrical Engineering, Applied Mathematics and Optimization at Northwestern 
